@@ -14,15 +14,3 @@ time import saved text file to continue editing.
 Select tile from right sidebar. Left click on map location to put selected tile
 down. Left click and drag to fill big areas. To move map click and hold right 
 or middle mouse button and drag around.
-
-
-
-
-
-
-
-
-
-
-
-loh loh hihihih loh loh pidor :3
