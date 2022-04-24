@@ -147,7 +147,7 @@ function loadMapHTML() {
 }
 
 function getMapTileHTML(id, index) {
-  return `<div id="map-tile-${index}" class="map-tile" style="background-image: url(tiles/${tiles[id]})"></div>`
+  return `<div id="map-tile-${index}" class="map-tile" style="background-image: url(tiles/${tiles[id]}); width: ${tileSize}px; height: ${tileSize}px"></div>`
 }
 
 let currentMapTileIndex = undefined;

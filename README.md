@@ -22,3 +22,6 @@ time **import** saved text file to continue editing.
 Select tile from sidebar on the right. Left click on map location to put selected tile
 down. Left click and drag to fill big areas. To move map click and hold right 
 or middle mouse button and drag around.
+
+### Tile Size
+Tile size can be adjusted in **index.js** file. Change the value of **tileSize** variable on **line 1**.
