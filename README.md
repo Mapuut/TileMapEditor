@@ -12,10 +12,10 @@ file -> **Open with...** and choose your browser of choice.
 
 ### Adding Tiles
 Place your tiles in **tiles** folder. Open **tiles.js** and add tiles in 
-**("ID": "filePath"/fileName.fileExtension)** format e.g. **("12": "trees/oak.png")**.
+**("ID": "filePath/fileName.fileExtension")** format e.g. **("12": "trees/oak.png")**.
 
 ### Saving Progress
-Make changes in editor then click **export** and text file will be downloaded. Next
+Make changes in editor then click **export** after which text file will be downloaded automatically. Next
 time **import** saved text file to continue editing.
 
 ### Controls
