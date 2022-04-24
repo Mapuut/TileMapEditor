@@ -8,14 +8,14 @@ Download project. You dont need any special tools, having browser is sufficent.
 
 ### Running Editor
 Double click **index.html** file or right click **index.html**
-file -> **Open with...** and choose your browser of choice.
+file -> **Open with...** and choose your preffered browser.
 
 ### Adding Tiles
 Place your tiles in **tiles** folder. Open **tiles.js** and add tiles in 
 **("ID": "filePath/fileName.fileExtension")** format e.g. **("12": "trees/oak.png")**.
 
 ### Saving Progress
-Make changes in editor then click **export** after which text file will be downloaded automatically. Next
+Make changes in editor then click **export**, after which text file will be downloaded automatically. Next
 time **import** saved text file to continue editing.
 
 ### Controls
